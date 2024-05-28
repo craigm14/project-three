@@ -16,11 +16,6 @@
   gap: 30px;
 }
 
-.grid3 {
-  /* place in three (just messing around with grid here)  */
-  grid-template-columns: repeat(3, 1fr);
-}
-
 /* Grid 2 (for tiles on mobile) */
 @media (max-width: 800px) {
   .grid2 {
